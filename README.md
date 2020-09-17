@@ -1,2 +1,2 @@
 # rssschool-cv
-https://rebusmv.github.io/rssschool-cv/cv
+https://rebusmv.github.io/rssschool-cv/cv.md
